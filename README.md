@@ -8,8 +8,8 @@
 
 <div align="center">
  
- <p>🔭 I’m currently working in **Nibiaa Devices** </p>
- <p>🌱 I’m currently learning ** Hyperledger Fabric, Docker, Kubernetes **</p>
+ <p><!--🔭 -->I’m currently working in **Nibiaa Devices** </p>
+ <p><!--🌱--> I’m currently learning ** Hyperledger Fabric, Docker, Kubernetes **</p>
 
  </div>
  
