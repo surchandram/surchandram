@@ -8,7 +8,7 @@
 
 <div align="center">
  
- <h3>🔭 I’m currently working in **Nibiaa Devices** </h3><br>
+ <h3>🔭 I’m currently working in **Nibiaa Devices** </h3>
  <h3>🌱 I’m currently learning ** Hyperledger Fabric, Docker, Kubernetes **</h3>
 
  </div>
