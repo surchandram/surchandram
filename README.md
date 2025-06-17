@@ -29,7 +29,7 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
 
  </div-->
  
-<div align="center"> 
+<div align="left"> 
   <a href="mailto:surrrchandra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -48,7 +48,7 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
  
 <!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  -->
 <br/>
-<div align="center">
+<div align="left">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,python" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,mysql,docker,kubernetes" /><br>
 </div>
@@ -64,7 +64,7 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
 <br/>
 
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surchandram&theme=transparent" width="100%" height="50%">  -->
-<div align="center">
+<div align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surchandram&theme=transparent"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surchandram&theme=transparent"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surchandram&theme=transparent"> 
