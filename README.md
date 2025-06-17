@@ -1,8 +1,23 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=surchandram&style=flat-square" />
 
-<h1 align="center">
+<!--h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Surchandra!;" />
-</h1>
+</h1-->
+
+# MOIRANGTHEM SURCHANDRA SINGH
+<!--IoT Project Lead | Software Engineer  
+Imphal, Manipur-795004 | +91-7904671582 | ujalsingh1997@gmail.com
+-->
+<!--## Professional Summary
+A dedicated IoT Project Lead and Software Engineer with expertise in SaaS development, sensor technologies, cloud platforms, and web development. Committed to delivering innovative solutions and ensuring client satisfaction through effective project management and strong technical skills.
+
+## Current Focus
+- 🌱 Currently working at **Nibiaa Devices**
+- 🔭 Exploring **IoT/AR/VR**
+-->
+
+
+
 
 <br/>
 
