@@ -21,10 +21,10 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
 
 <br/>
 
-<div align="center">
+<div align="left">
  
- <p><!--🔭 -->I’m currently working in **Nibiaa Devices** </p>
- <p><!--🌱--> I’m currently learning ** Hyperledger Fabric, Docker, Kubernetes **</p>
+ <p><I’m currently working in Nibiaa Devices </p>
+ <p><I’m currently learning  Hyperledger Fabric, Docker, Kubernetes </p>
 
  </div>
  
