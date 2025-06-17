@@ -34,14 +34,14 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/moirangthem-surchandra-singh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank" />
   </a>
   <a href="https://surchandra-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
   <a href="https://www.fiverr.com/surchandra_m" target="_blank">
-     <img src="https://img.shields.io/badge/Fiverr-FF5722?style=for-the-badge&logo=fiverr&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
   <a href="https://leetcode.com/SURCHANDRA/" target="_blank">
