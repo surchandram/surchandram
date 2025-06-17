@@ -40,6 +40,10 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 
+  <a href="https://www.fiverr.com/surchandra_m" target="_blank">
+     <img src="https://img.shields.io/badge/Fiverr-FF5722?style=for-the-badge&logo=fiverr&logoColor=green" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+
   <a href="https://leetcode.com/SURCHANDRA/" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
   </a>
