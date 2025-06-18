@@ -53,8 +53,8 @@ A dedicated IoT Project Lead and Software Engineer with expertise in SaaS develo
 <!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>  -->
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,mysql,docker,kubernetes" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,docker,kubernetes" /><br>
 </div>
 
 <br/>
