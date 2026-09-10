@@ -5,7 +5,7 @@
 </h1-->
 
 # MOIRANGTHEM SURCHANDRA SINGH
-I’m currently working in Nibiaa Devices, with hands-on experience in IoT, Hyperledger Fabric, React, Docker and Kubernetes.
+
 <!--IoT Project Lead | Software Engineer  
 Imphal, Manipur-795004 | +91-7904671582 | ujalsingh1997@gmail.com
 -->
